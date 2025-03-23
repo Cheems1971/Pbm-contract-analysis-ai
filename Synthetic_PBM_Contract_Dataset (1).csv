@@ -1,0 +1,6 @@
+Contract_ID,Drug_Tier,Rebate_%,MAC_Price_Cap,Channel,PA_Required,Step_Therapy,Copay,Expected_Utilization_%,Projected_Cost_PMPM
+C001,Tier 1,18,40,Retail,No,No,10,75,32.5
+C002,Tier 2,25,80,Mail,Yes,No,20,50,42.0
+C003,Tier 3,30,120,Specialty,Yes,Yes,75,25,68.0
+C004,Tier 2,22,90,Retail,No,Yes,25,40,39.0
+C005,Tier 1,20,45,Mail,Yes,No,15,60,35.5
